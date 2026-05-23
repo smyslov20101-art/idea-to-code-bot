@@ -1,0 +1,4 @@
+aiogram>=3.28
+aiohttp-socks>=0.11
+anthropic>=0.102
+python-dotenv>=1.2

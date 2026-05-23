@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.vscode/
+.claude/
+CLAUDE.md
+*.log
+data/
+projects/
+# Отдельный проект внутри этой папки — у него свой репозиторий
+wife-bot/
